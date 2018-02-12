@@ -23,7 +23,7 @@ dog_name= input("enter the dog_name")
 dog_age=input("enter the dog age")
 
 
-dog= Dog(dog_name,dog_age)
+dog= Dog(dog_name , dog_age)
 
 print(dog.name)
 
